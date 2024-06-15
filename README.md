@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=chadlrnsn&theme=tokyo&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
+</br>
+
+- Backend
+- Game exploiting
+- Basic Reverse Engineering
+- Learned programming on my own
+
+<a href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?borderRadius=20px&bg=00000000" alt="Discord" /></a>
 
 <!--
 **chadlrnsn/chadlrnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
