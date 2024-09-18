@@ -1,6 +1,6 @@
 <div align=center>
-<h1>Hi 👋</h1>
-<div class="img-card" style="overflow: hidden; width: 200px; height: 200px; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+<h1>Hi there 👋</h1>
+<div class="img-card" style="overflow: hidden; display: flex; justify-content: center; align-items: center; width: 200px; height: 200px; border-radius: 50%;">
     <img src="https://media1.tenor.com/m/rFB9KrjoiN8AAAAC/marie-rose-pose.gif" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 <h3>My stack</h3>
