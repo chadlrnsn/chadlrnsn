@@ -2,7 +2,8 @@
 ```console
 lorenson@chad:~$ chad > README.md
 ```
-![](https://komarev.com/ghpvc/?username=chadlrnsn&style=plastic)
+![](https://komarev.com/ghpvc/?username=chadlrnsn&style=flat-square&color=e75963)
+![GitHub Total Stars](https://img.shields.io/github/stars/chadlrnsn?style=flat-square&color=f0c107)
 
 <div align="center">
     <img src="https://media.tenor.com/WDQCVNX8Oq4AAAAj/touhou-koakuma.gif" style="background: transparent;" />
@@ -37,7 +38,7 @@ lorenson@chad:~$ chad > README.md
 
 </div>
 
-<div align="left" style="display: flex; align-items: flex-start; gap: 16px;"><a href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?theme=dark&showDisplayName=true&hideDecoration=true&hideBadges=true&hideTag=true" /></a><a alt="Recently played"><img src="https://spotify-recently-played-readme.vercel.app/api?user=aak2e12dze2ejqnu3868ss95o"/></a></div>
+<div align="left" style="display: flex; align-items: flex-start; gap: 16px;"><a href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?theme=dark&showDisplayName=true&hideDecoration=true&hideBadges=true&hideTag=true&bg=212121" /></a><a alt="Recently played"><img src="https://spotify-recently-played-readme.vercel.app/api?user=aak2e12dze2ejqnu3868ss95o"/></a></div>
 
 ---
 
