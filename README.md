@@ -38,7 +38,9 @@ lorenson@chad:~$ chad > README.md
 </div>
 
 <div align="left" style="display: flex; align-items: flex-start; gap: 16px;"><a href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?theme=dark&showDisplayName=true&hideDecoration=true&hideBadges=true&hideTag=true" /></a><a alt="Recently played"><img src="https://spotify-recently-played-readme.vercel.app/api?user=aak2e12dze2ejqnu3868ss95o"/></a></div>
+
 ---
+
 <div align="center">
     <i>💡 "Security through obscurity is no security at all"</i>
 </div>
