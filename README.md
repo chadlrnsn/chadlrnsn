@@ -1,4 +1,7 @@
 ## Hi there 👋
+```console
+lorenson@chad:~$ chad > README.md
+```
 ![](https://komarev.com/ghpvc/?username=chadlrnsn&style=plastic)
 
 <div align="center">
@@ -7,19 +10,35 @@
 
 ## My stack and tools
 
-![My Skills](https://skillicons.dev/icons?i=git,githubactions,c,cpp,js,ts,lua,python,php,docker,mysql,nodejs,sqlite,cmake,assembly)
+![My Skills](https://skillicons.dev/icons?i=git,githubactions,c,cpp,rust,lua,python,php,docker,mysql,nodejs,cmake,bash,blender,cloudflare)
 
 
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=chadlrnsn&theme=dracula&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
-</br>
+### 💻 What I Do
+- **Backend Development** - Building scalable server-side applications
+- **Game Security Research** - Reverse engineering and vulnerability analysis  
+- **Reverse Engineering** - Binary analysis and exploit development
+- **Independent Developer** - Full-stack projects and security consulting
 
-- Backend
-- Game exploiting
-- Reverse Engineering
-- Self-Employe
+### Featured Projects
+<!-- Pin your best repositories and they'll show up here automatically -->
+*Check out my pinned repositories below for my latest work!*
 
-<div class="same-line" style="display: inline-flex">
-    <a align="left" href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?borderRadius=20px&bg=00000000" alt="Discord" /></a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadlrnsn&layout=compact&bg_color=00000000&hide_border=true&theme=dracula" /></br>
+### Current Focus
+- Working on advanced memory manipulation techniques
+- Contributing to open-source security tools  
+- Developing automated reverse engineering frameworks
+
+### 🏆 Achievements
+<div align="center">
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=chadlrnsn&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="left" style="display: flex; align-items: flex-start; gap: 16px;"><a href="https://discord.com/users/260781677708574721"><img src="https://lanyard.cnrad.dev/api/260781677708574721?theme=dark&showDisplayName=true&hideDecoration=true&hideBadges=true&hideTag=true" /></a><a alt="Recently played"><img src="https://spotify-recently-played-readme.vercel.app/api?user=aak2e12dze2ejqnu3868ss95o"/></a></div>
+---
+<div align="center">
+    <i>💡 "Security through obscurity is no security at all"</i>
 </div>
